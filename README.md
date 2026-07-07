@@ -1,20 +1,25 @@
-# Hi, I'm Sashwath Selvakumar 👋
+# Good Morning, Good Afternoon, and Good Evening! I'm Sashwath Selvakumar 👋
 
-I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and Brain Computer Interfaces
+I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and semantic EEG parsing with Vision Transformers and LLMs
 
 ---
 
 ### 🧬 Core Projects
 
-#### 🌌 [GliODE](https://github.com/sashwathsk2588) — Continuous 3D Tumor Dynamics via Neural ODEs
+#### 🌌 [GliODE](https://github.com/sashwathsk2588/GliODE) — Continuous 3D Tumor Dynamics via Neural ODEs
 * Developed a continuous neural dynamical architecture that maps multi-sequence/parametric brain tumor MRIs into a continuous latent space.
 * Leverages **Neural Ordinary Differential Equations (ODEs)** to directly learn and infer the biophysical velocity fields of cell infiltration and invasion frontiers from clinical imaging data.
 
-#### 🧪 [Antigenify](https://github.com/sashwathsk2588) — Generative Sequence Optimization for Neoantigens
+#### 🧪 [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
 * Utilizes a sub-quadratic **hybrid convolution-attention architecture** (gated convolutions + FFT-accelerated Toeplitz matrix operations) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** to optimize both epitope immunogenicity and MHC Class I binding affinity.
 
----
+### In Development
+
+#### [Quasar VLA](https://github.com/sashwathsk2588/QuasarVLA) - Omnimodal World Model with Chain of Causation for Robotics Simulation in IsaacSim (currently in development)
+
+#### [Scaffold VLM](https://github.com/sashwathsk2588/ScaffoldVLM) - Recursive Self Improving Vision-Language-Models for Crafting 3D Worlds for Synthetic Robotics Data (currently in development)
+
 
 ### 📊 Research Interests
 * **Geometric Deep Learning & Representation Learning:** Graph Neural Networks (GNNs), State Space Models (SSMs), and non-Euclidean topologies for mapping biological ecosystems.
