@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sashwath Selvakumar 👋
 
-<!--
-**sashwathsk2588/sashwathsk2588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and Brain Computer Interfaces
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 Core Projects
+
+#### 🌌 [GliODE](https://github.com/sashwathsk2588) — Continuous 3D Tumor Dynamics via Neural ODEs
+* Developed a continuous neural dynamical architecture that maps multi-sequence/parametric brain tumor MRIs into a continuous latent space.
+* Leverages **Neural Ordinary Differential Equations (ODEs)** to directly learn and infer the biophysical velocity fields of cell infiltration and invasion frontiers from clinical imaging data.
+
+#### 🧪 [Antigenify](https://github.com/sashwathsk2588) — Generative Sequence Optimization for Neoantigens
+* Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
+* Utilizes a sub-quadratic **hybrid convolution-attention architecture** (gated convolutions + FFT-accelerated Toeplitz matrix operations) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** to optimize both epitope immunogenicity and MHC Class I binding affinity.
+
+---
+
+### 📊 Research Interests
+* **Geometric Deep Learning & Representation Learning:** Graph Neural Networks (GNNs), State Space Models (SSMs), and non-Euclidean topologies for mapping biological ecosystems.
+* **Generative Modeling & Continuous Flows:** Flow Matching, optimal transport frameworks, and neural differential equations for structural and sequence-level design.
+* **Computational Immunoinformatics:** Predictively mapping sequence-level variations and functional genomic shifts within the tumor microenvironment.
+
+---
+
+### 🛠️ Technical Toolkit
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+* **Email:** [sashwath2588@gmail.com](mailto:sashwath.selvakumar.8@gmail.com)
+* **Affiliation:** Jasper High School, Plano, TX
