@@ -1,6 +1,5 @@
-# Good Morning, Good Afternoon, and Good Evening! I'm Sashwath Selvakumar 👋
-
-I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and semantic EEG parsing with Vision Transformers and LLMs
+# Good Morning, Good Afternoon, and Good Evening!
+ I'm Sashwath Selvakumar 👋, and I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and semantic EEG parsing with Vision Transformers and LLMs
 
 ---
 
