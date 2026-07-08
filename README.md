@@ -42,5 +42,5 @@
 
 ### 📬 Connect With Me
 
-* **Email:** [sashwath2588@gmail.com](mailto:sashwath.selvakumar.8@gmail.com)
+* **Email:** [sashwath.selvakumar.8@gmail.com](mailto:sashwath.selvakumar.8@gmail.com)
 * **Affiliation:** Jasper High School, Plano, TX
