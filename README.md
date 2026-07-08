@@ -1,15 +1,15 @@
-# Good Morning, Good Afternoon, and Good Evening!
+# Hi
  I'm Sashwath Selvakumar 👋, and I am a computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in...well anything I like really, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI and semantic EEG parsing with Vision Transformers and LLMs
 
 ---
 
-### 🧬 Core Projects
+###  Core Projects
 
-#### 🌌 [GliODE](https://github.com/sashwathsk2588/GliODE) — Continuous 3D Tumor Dynamics via Neural ODEs
+####  [GliODE](https://github.com/sashwathsk2588/GliODE) — Continuous 3D Tumor Dynamics via Neural ODEs
 * Developed a continuous neural dynamical architecture that maps multi-sequence/parametric brain tumor MRIs into a continuous latent space.
 * Leverages **Neural Ordinary Differential Equations (ODEs)** to directly learn and infer the biophysical velocity fields of cell infiltration and invasion frontiers from clinical imaging data.
 
-#### 🧪 [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
+####  [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
 * Utilizes a sub-quadratic **hybrid convolution-attention architecture** (gated convolutions + FFT-accelerated Toeplitz matrix operations) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity.
 
@@ -20,14 +20,14 @@
 #### [Scaffold VLM](https://github.com/sashwathsk2588/ScaffoldVLM) - Recursive Self Improving Vision-Language-Models for Crafting 3D Worlds for Synthetic Robotics Data (currently in development)
 
 
-### 📊 Research Interests
+###  Research Interests
 * **Geometric Deep Learning & Representation Learning:** Graph Neural Networks (GNNs), State Space Models (SSMs), and non-Euclidean topologies for mapping biological ecosystems.
 * **Generative Modeling & Continuous Flows:** Flow Matching, optimal transport frameworks, and neural differential equations for structural and sequence-level design.
 * **Computational Immunoinformatics:** Predictively mapping sequence-level variations and functional genomic shifts within the tumor microenvironment.
 
 ---
 
-### 🛠️ Technical Toolkit
+###  Technical Toolkit
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 * **Email:** [sashwath.selvakumar.8@gmail.com](mailto:sashwath.selvakumar.8@gmail.com)
 * **Affiliation:** Jasper High School, Plano, TX
