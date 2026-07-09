@@ -7,7 +7,7 @@
 
 ####  [GliODE](https://github.com/sashwathsk2588/GliODE) — Continuous 3D Tumor Dynamics via Neural ODEs
 * Developed a continuous neural dynamical architecture that maps multi-sequence/parametric brain tumor MRIs into a continuous latent space.
-* Leverages **Neural Ordinary Differential Equations (ODEs)** to directly learn and infer the biophysical velocity fields of cell infiltration and invasion frontiers from clinical imaging data.
+* Leverages **Neural Ordinary Differential Equations (Fisher-Kolmogorov ODE)** to directly learn and infer the biophysical velocity fields of cell infiltration and invasion frontiers from clinical imaging data.
 
 ####  [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
