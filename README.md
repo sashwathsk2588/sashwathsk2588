@@ -11,7 +11,7 @@
 
 ####  [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
-* Utilizes a sub-quadratic **hybrid convolution-attention architecture** (gated convolutions + FFT-accelerated Toeplitz matrix operations) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity. Inspired by [this paper](https://arxiv.org/pdf/2503.01868) from Stanford University. Triton kernels ported from zymrael/Vortex repository.
+* Utilizes a **Convolutional Multi Hybrid Architecture** (short explicit, medium regulated, long implicit layers + attention) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity. Inspired by [this paper](https://arxiv.org/pdf/2503.01868) from Stanford University. Triton kernels ported from zymrael/Vortex repository.
 
 ### In Development
 
