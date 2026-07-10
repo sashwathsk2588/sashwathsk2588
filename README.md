@@ -13,6 +13,10 @@
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
 * Utilizes a **Convolutional Multi Hybrid Architecture** (short explicit, medium regulated, long implicit layers + attention) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity. Inspired by [this paper](https://arxiv.org/pdf/2503.01868) from Stanford University. Triton Toeplitz kernels ported from zymrael/Vortex repository.
 
+#### [Synapse2Text](https://github.com/sashwathsk2588/Synapse2Text) - **End to End Volumetric Conformer for Semantic EEG Parsing**
+*Brain Computer Interface (BCI) deep learning software that handles signal ingestion (LSL + public datasets), preprocessing, decoding, per-user calibration, and action mapping (speller, cursor, yes/no) for non-invasive EEG.
+*Paired with LLaMa and Conformer Architecture to semantically decode motor cortex EEG
+
 ### In Development
 
 #### [Quasar VLA](https://github.com/sashwathsk2588/QuasarVLA) - Omnimodal World Model with Chain of Causation for Robotics Simulation in IsaacSim (currently in development)
