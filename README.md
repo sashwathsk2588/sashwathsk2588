@@ -15,7 +15,7 @@
 
 #### [Synapse2Text](https://github.com/sashwathsk2588/Synapse2Text) - **End to End Volumetric Conformer for Semantic EEG Parsing**
 * Brain Computer Interface (BCI) deep learning software that handles signal ingestion (LSL + public datasets), preprocessing, decoding, per-user calibration, and action mapping (speller, cursor, yes/no) for non-invasive EEG.
-*Paired with LLaMa and Conformer Architecture to semantically decode motor cortex EEG
+* Paired with LLaMa and Conformer Architecture to semantically decode motor cortex EEG
 
 ### In Development
 
