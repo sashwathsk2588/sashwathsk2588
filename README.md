@@ -11,6 +11,7 @@ Developed a continuous neural dynamical architecture that maps multi-sequence/pa
 * Wm (White Matter)
 * Gm (Grey Matter)
 * CSF (Cerebrospinal Fluid)
+  
 Future work revolves around generating 3D Geometry of Brain for synthetic tumor data generation
 
 ####  [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
