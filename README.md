@@ -1,5 +1,5 @@
 # Hi
- I'm Sashwath Selvakumar 👋, and I am a high school student/computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in anything deep-learning related, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI. 
+ I'm Sashwath Selvakumar, and I am a high school student/computational biology researcher and deep learning developer focused on building foundational machine learning frameworks to solve high-dimensional challenges in anything deep-learning related, from structural oncology and regulatory genomics to Chain of Causation omnimodal world models for embodied AI. 
 
 ---
 
