@@ -16,7 +16,7 @@ Future work revolves around generating 3D Geometry of Brain for synthetic tumor 
 
 ####  [Antigenify](https://github.com/sashwathsk2588/Antigenify) — Generative Sequence Optimization for Neoantigens
 * Built a deep learning framework for multi-objective synthetic mRNA epitope generation targeting cancer vaccine design.
-* Utilizes a **Convolutional Multi Hybrid Architecture** (short explicit, medium regulated, long implicit layers + attention) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity. Inspired by [this paper](https://arxiv.org/pdf/2503.01868) from Stanford University. Triton Toeplitz kernels ported from zymrael/Vortex repository.
+* Utilizes a **Convolutional Multi Hybrid Architecture** (short explicit, medium regulated, long implicit layers + attention) to scale past the quadratic bottlenecks of traditional Transformers, pairing it with **Flow Matching** in ESM-2 Latent Space to optimize both epitope immunogenicity and MHC Class I binding affinity. Inspired by [this paper](https://arxiv.org/pdf/2503.01868) from Stanford University. 
 
 #### [Synapse2Text](https://github.com/sashwathsk2588/Synapse2Text) - **End to End Volumetric Conformer for Semantic EEG Parsing**
 * Brain Computer Interface (BCI) deep learning software that handles signal ingestion (LSL + public datasets), preprocessing, decoding, per-user calibration, and action mapping (speller, cursor, yes/no) for non-invasive EEG.
